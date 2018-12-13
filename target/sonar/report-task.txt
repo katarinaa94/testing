@@ -1,0 +1,7 @@
+organization=katarinaa94-github
+projectKey=katarinaa94_testing
+serverUrl=https://sonarcloud.io
+serverVersion=7.5.0.20127
+dashboardUrl=https://sonarcloud.io/dashboard?id=katarinaa94_testing
+ceTaskId=AWeoXpurk8xMH8iud_wm
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWeoXpurk8xMH8iud_wm
